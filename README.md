@@ -17,7 +17,7 @@ Here you’ll find all the free resources shared in my YouTube videos, including
 
 ## 🎥 YouTube Channel
 
-Subscribe for programming, AI/ML, Python, Java, Computer Vision, and project tutorials.
+Join us for programming, AI/ML, Python, Java, Computer Vision, and project tutorials.
 
 ---
 
@@ -31,10 +31,10 @@ Subscribe for programming, AI/ML, Python, Java, Computer Vision, and project tut
 
 ## ⭐ Support & Feedback
 
-If this series helped you:
+If this resource/video/series helped you:
 
 * Star ⭐ the repository
-* Share the playlist
+* Share the video/playlist with others
 * [Subscribe to the channel](https://tinyurl.com/akashchauhanofficial)
 
 
