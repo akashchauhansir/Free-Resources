@@ -19,16 +19,28 @@ Here you’ll find all the free resources shared in my YouTube videos, including
 
 Subscribe for programming, AI/ML, Python, Java, Computer Vision, and project tutorials.
 
-## ⭐ Support
+---
 
-If these resources help you, consider:
+## 🌐 Connect With Me
 
-* Starring this repository ⭐
-* Sharing it with friends 🤝
-* Supporting the YouTube channel ❤️
+* 🌍 Website: [https://www.akashchauhan.in](https://www.akashchauhan.in)
+* 🎥 YouTube: [https://www.youtube.com/@akashchauhansir](https://www.youtube.com/@akashchauhansir)
+* 💻 GitHub: [https://github.com/akashchauhansir](https://github.com/akashchauhansir)
+
+---
+
+## ⭐ Support & Feedback
+
+If this series helped you:
+
+* Star ⭐ the repository
+* Share the playlist
+* [Subscribe to the channel](https://tinyurl.com/akashchauhanofficial)
+
 
 ## 📢 Disclaimer
 
 These resources are shared only for learning and educational purposes.
 
-Happy Learning 🚀
+Happy Learning 🚀<br>
+**Akash Chauhan**
